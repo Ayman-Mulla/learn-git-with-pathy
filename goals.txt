@@ -1,0 +1,7 @@
+i learned how to use cmd and commands like : cd ,mkdir ,  learned the difference between folders and files 
+
+learned the difference between git and github
+
+learned how to connect vscode with github 
+
+learned how to track progress and stuff like version control.
